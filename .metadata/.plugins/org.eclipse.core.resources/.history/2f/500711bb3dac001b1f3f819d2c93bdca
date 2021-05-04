@@ -1,0 +1,5 @@
+package com.generation.FarmaciaGeneration.controller;
+
+public class CategoriaController {
+
+}
